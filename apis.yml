@@ -1,0 +1,32 @@
+aid: alienvault-open-threat-exchange-otx
+name: AlienVault Open Threat Exchange (OTX)
+description: "IP/domain/URL reputation"
+url: https://otx.alienvault.com/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anti-Malware"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anti Malware
+  - Public APIs
+apis:
+  - name: AlienVault Open Threat Exchange (OTX)
+    description: "IP/domain/URL reputation"
+    humanURL: https://otx.alienvault.com/api
+    baseURL: https://otx.alienvault.com/api
+    tags:
+      - Anti Malware
+    properties:
+      - type: Documentation
+        url: https://otx.alienvault.com/api
+common:
+  - type: Website
+    url: https://otx.alienvault.com/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
