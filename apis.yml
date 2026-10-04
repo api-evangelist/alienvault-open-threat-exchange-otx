@@ -39,7 +39,6 @@ apis:
   - name: AlienVault Open Threat Exchange (OTX)
     description: "IP/domain/URL reputation"
     humanURL: https://otx.alienvault.com/api
-    baseURL: https://otx.alienvault.com/api
     tags:
       - Anti Malware
     properties:
