@@ -1,0 +1,14 @@
+{
+  "repo": "alienvault-open-threat-exchange-otx",
+  "feeds": [
+    {
+      "source": "https://otx.alienvault.com/blog/",
+      "feed_url": "https://otx.alienvault.com/blog/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
